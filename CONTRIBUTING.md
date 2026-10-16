@@ -1,0 +1,6 @@
+# Contribution guidelines
+
+1. Create a feature branch
+2. make focused commits
+3. Submit pull requests
+
